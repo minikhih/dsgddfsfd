@@ -2,7 +2,7 @@
 // @name         Evowars.io Hack Menu - by MiniKS (Dark Neon & Pixel)
 // @namespace    http://tampermonkey.net/
 // @version      6.0.0
-// @description  Menu Hack Evowars.io Dark Neon, Pixel Font, Player Count on Top, Map Hack & Avatar Status.key VIP trong code hoặc lấy từ menu 
+// @description  Menu Hack Evowars.io Dark Neon, Pixel Font, Player Count on Top, Map Hack & Avatar Status.key VIP trong code hoặc lấy từ menu,MiniKS vàn Gemini,smart
 // @author       MiniKS
 // @match        https://evowars.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=evowars.io
